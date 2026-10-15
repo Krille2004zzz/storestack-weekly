@@ -1,0 +1,266 @@
+[
+ [
+  "Klaviyo",
+  "https://www.klaviyo.com/",
+  "email-sms",
+  "Email and SMS marketing platform with deep Shopify data sync, flows and segmentation.",
+  "Free plan, then paid by contact count",
+  "Growing ($10k+/mo)"
+ ],
+ [
+  "Omnisend",
+  "https://www.omnisend.com/",
+  "email-sms",
+  "Email and SMS marketing with ready-made e-commerce automations; simpler than enterprise tools.",
+  "Free plan, then paid tiers",
+  "New store"
+ ],
+ [
+  "Postscript",
+  "https://postscript.io/",
+  "email-sms",
+  "SMS marketing built specifically for Shopify brands.",
+  "Paid, usage-based",
+  "Growing ($10k+/mo)"
+ ],
+ [
+  "Attentive",
+  "https://www.attentive.com/",
+  "email-sms",
+  "Enterprise SMS and email marketing platform for larger brands.",
+  "Custom quote",
+  "Scaling ($100k+/mo)"
+ ],
+ [
+  "Judge.me",
+  "https://judge.me/",
+  "reviews",
+  "Product reviews app with photo/video reviews and review request emails.",
+  "Free plan + low-cost paid plan",
+  "New store"
+ ],
+ [
+  "Okendo",
+  "https://okendo.io/",
+  "reviews",
+  "Reviews, UGC, loyalty and quizzes in one customer marketing platform.",
+  "Paid tiers",
+  "Growing ($10k+/mo)"
+ ],
+ [
+  "Yotpo",
+  "https://www.yotpo.com/",
+  "reviews",
+  "Reviews, loyalty and referrals suite used by mid-size and large brands.",
+  "Free/entry plans, paid tiers",
+  "Scaling ($100k+/mo)"
+ ],
+ [
+  "Loox",
+  "https://loox.app/",
+  "reviews",
+  "Photo and video reviews plus referrals, popular with visual brands.",
+  "Paid tiers",
+  "New store"
+ ],
+ [
+  "ReConvert (Upsell.com)",
+  "https://upsell.com/",
+  "upsell",
+  "Post-purchase and thank-you page upsells. ReConvert now lives at Upsell.com.",
+  "Free plan + paid tiers",
+  "New store"
+ ],
+ [
+  "Rebuy",
+  "https://www.rebuyengine.com/",
+  "upsell",
+  "AI-powered personalisation: upsells, cross-sells, smart cart.",
+  "Paid, by order volume",
+  "Growing ($10k+/mo)"
+ ],
+ [
+  "Zipify",
+  "https://zipify.com/",
+  "upsell",
+  "One-click upsells (OCU) and landing page builder from the Zipify team.",
+  "Paid tiers",
+  "Growing ($10k+/mo)"
+ ],
+ [
+  "Recharge",
+  "https://getrecharge.com/",
+  "subscriptions",
+  "Leading subscription billing platform for Shopify.",
+  "Paid tiers + transaction fees",
+  "Growing ($10k+/mo)"
+ ],
+ [
+  "Skio",
+  "https://skio.com/",
+  "subscriptions",
+  "Subscription platform focused on easy migration and passwordless customer portal.",
+  "Paid",
+  "Scaling ($100k+/mo)"
+ ],
+ [
+  "Smile.io",
+  "https://smile.io/",
+  "subscriptions",
+  "Loyalty points, VIP tiers and referral programs.",
+  "Free plan + paid tiers",
+  "New store"
+ ],
+ [
+  "LoyaltyLion",
+  "https://loyaltylion.com/",
+  "subscriptions",
+  "Data-driven loyalty and engagement platform.",
+  "Paid tiers",
+  "Growing ($10k+/mo)"
+ ],
+ [
+  "ShipStation",
+  "https://www.shipstation.com/",
+  "shipping",
+  "Multi-carrier shipping labels and order management.",
+  "Paid tiers (trial available)",
+  "New store"
+ ],
+ [
+  "AfterShip",
+  "https://www.aftership.com/",
+  "shipping",
+  "Branded order tracking, notifications and returns.",
+  "Free plan + paid tiers",
+  "New store"
+ ],
+ [
+  "Loop Returns",
+  "https://www.loopreturns.com/",
+  "shipping",
+  "Returns and exchanges platform that pushes exchanges over refunds.",
+  "Paid",
+  "Scaling ($100k+/mo)"
+ ],
+ [
+  "ShipBob",
+  "https://www.shipbob.com/",
+  "shipping",
+  "Outsourced 3PL fulfilment with a global warehouse network.",
+  "Custom quote",
+  "Growing ($10k+/mo)"
+ ],
+ [
+  "Triple Whale",
+  "https://triplewhale.com/",
+  "analytics",
+  "Attribution and analytics dashboard for Shopify brands.",
+  "Free tier + paid tiers",
+  "Growing ($10k+/mo)"
+ ],
+ [
+  "Northbeam",
+  "https://www.northbeam.io/",
+  "analytics",
+  "Multi-touch attribution and media mix modelling.",
+  "Paid",
+  "Scaling ($100k+/mo)"
+ ],
+ [
+  "Lucky Orange",
+  "https://www.luckyorange.com/",
+  "analytics",
+  "Heatmaps, session recordings and live chat.",
+  "Free plan + paid tiers",
+  "New store"
+ ],
+ [
+  "Hotjar",
+  "https://contentsquare.com/hotjar/",
+  "analytics",
+  "Heatmaps, recordings and surveys, now part of Contentsquare.",
+  "Free plan + paid tiers",
+  "New store"
+ ],
+ [
+  "PageFly",
+  "https://pagefly.io/",
+  "page-builders",
+  "Drag-and-drop Shopify page builder.",
+  "Free plan + paid tiers",
+  "New store"
+ ],
+ [
+  "GemPages",
+  "https://gempages.net/",
+  "page-builders",
+  "Shopify page builder with templates and CRO elements.",
+  "Free plan + paid tiers",
+  "New store"
+ ],
+ [
+  "Replo",
+  "https://www.replo.app/",
+  "page-builders",
+  "Landing page builder for Shopify aimed at growth teams.",
+  "Paid tiers",
+  "Growing ($10k+/mo)"
+ ],
+ [
+  "Shogun",
+  "https://getshogun.com/",
+  "page-builders",
+  "E-commerce optimisation and personalisation platform with page building.",
+  "Paid tiers",
+  "Growing ($10k+/mo)"
+ ],
+ [
+  "Gorgias",
+  "https://www.gorgias.com/",
+  "support",
+  "Helpdesk built for e-commerce, with order data inside tickets.",
+  "Paid, by ticket volume",
+  "Growing ($10k+/mo)"
+ ],
+ [
+  "Tidio",
+  "https://www.tidio.com/",
+  "support",
+  "Live chat and AI chatbot for small stores.",
+  "Free plan + paid tiers",
+  "New store"
+ ],
+ [
+  "Inventory Planner",
+  "https://inventory-planner.com/",
+  "inventory",
+  "Demand forecasting and purchase order planning.",
+  "Paid (trial available)",
+  "Growing ($10k+/mo)"
+ ],
+ [
+  "Pebblely",
+  "https://pebblely.com/",
+  "ai",
+  "AI product photography: generate lifestyle backgrounds for product shots.",
+  "Free plan + paid tiers",
+  "New store"
+ ],
+ [
+  "Photoroom",
+  "https://www.photoroom.com/",
+  "ai",
+  "AI photo editor for background removal and product listing images.",
+  "Free plan + paid tiers",
+  "New store"
+ ],
+ [
+  "Jasper",
+  "https://www.jasper.ai/",
+  "ai",
+  "AI marketing content platform for product copy, ads and email.",
+  "Paid tiers (trial available)",
+  "Growing ($10k+/mo)"
+ ]
+]
