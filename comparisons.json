@@ -17,7 +17,7 @@
  [
   "Recharge",
   "Skio",
-  "Recharge starts at $99/mo + 1.49% + 19\u00a2 per transaction. Skio starts at $499/mo (annual) + 1% + 20\u00a2 and targets brands with established subscription revenue."
+  "Recharge starts at $99/mo + 1.49% + 19¢ per transaction. Skio starts at $499/mo (annual) + 1% + 20¢ and targets brands with established subscription revenue."
  ],
  [
   "Recharge",
@@ -53,5 +53,85 @@
   "Triple Whale",
   "Northbeam",
   "Triple Whale has a free plan and is popular with Shopify brands. Northbeam is a paid multi-touch attribution tool aimed at brands with bigger ad budgets."
+ ],
+ [
+  "Klaviyo",
+  "Mailchimp",
+  "Both have free plans. Klaviyo syncs deeply with Shopify data for flows and segmentation and suits growing stores; Mailchimp is a well-known general email tool with a Shopify integration that suits new stores."
+ ],
+ [
+  "Klaviyo",
+  "Shopify Email",
+  "Shopify Email is free up to 10,000 emails/mo and runs inside your admin, a simple start for new stores. Klaviyo adds deep segmentation and flows for growing stores, with a free plan up to 250 profiles."
+ ],
+ [
+  "PageFly",
+  "Shogun",
+  "PageFly is a drag-and-drop page builder for new stores. Shogun adds optimisation and personalisation, with a free Draft Mode (no publishing) and Build from $39/mo."
+ ],
+ [
+  "Replo",
+  "GemPages",
+  "GemPages is a page builder with templates and CRO elements, suited to new stores. Replo is a landing page builder aimed at growth teams. Check each vendor for current pricing."
+ ],
+ [
+  "Gorgias",
+  "Tidio",
+  "Tidio is live chat and an AI chatbot for small stores, paid from $24.17/mo. Gorgias is a full e-commerce helpdesk with order data in tickets, from $40/mo, for growing stores."
+ ],
+ [
+  "Triple Whale",
+  "Polar Analytics",
+  "Triple Whale focuses on attribution and has a free plan. Polar Analytics is centralised analytics and BI aimed at larger stores. Check the vendor for Polar pricing."
+ ],
+ [
+  "AfterSell",
+  "Rebuy",
+  "AfterSell does post-purchase and checkout upsells from $59.99/mo. Rebuy covers AI upsells, cross-sells and a smart cart, with build-your-own plans from $25/mo."
+ ],
+ [
+  "ReConvert (Upsell.com)",
+  "AfterSell",
+  "Both focus on post-purchase upsells. AfterSell starts at $59.99/mo with a 30-day trial and is capped at $599.99/mo; ReConvert (now Upsell.com) is priced in tiers by order volume."
+ ],
+ [
+  "Loop Returns",
+  "Redo",
+  "Loop pushes exchanges over refunds on fixed plans from $155/mo. Redo is a returns and post-purchase platform with usage-based pricing per order."
+ ],
+ [
+  "Loop Returns",
+  "AfterShip",
+  "AfterShip is mainly branded tracking and notifications, from $29/mo, and also handles returns. Loop is a dedicated returns and exchanges platform from $155/mo for larger stores."
+ ],
+ [
+  "Okendo",
+  "Yotpo",
+  "Okendo bundles reviews, UGC, loyalty and quizzes. Yotpo offers reviews (free up to 50 orders/mo, paid from $15/mo) plus loyalty and referrals, aimed at mid-size and large brands."
+ ],
+ [
+  "Klaviyo",
+  "Attentive",
+  "Klaviyo covers email and SMS and has a free plan, which suits growing stores. Attentive is an enterprise SMS and email platform with custom pricing for larger brands."
+ ],
+ [
+  "Lucky Orange",
+  "Hotjar",
+  "Both offer heatmaps and session recordings. Lucky Orange adds live chat and starts at $32/mo (annual); Hotjar adds surveys and is now part of Contentsquare."
+ ],
+ [
+  "Smile.io",
+  "Yotpo",
+  "Smile.io focuses on loyalty points, VIP tiers and referrals from $15/mo. Yotpo is a broader reviews, loyalty and referrals suite for mid-size and large brands."
+ ],
+ [
+  "ShipBob",
+  "ShipStation",
+  "These solve different problems: ShipStation is software for printing your own labels (from $14.99/mo), while ShipBob is an outsourced 3PL that stores and ships your products for you."
+ ],
+ [
+  "ShipStation",
+  "Pirate Ship",
+  "Pirate Ship is free with no monthly fees, but covers USPS and UPS only. ShipStation is multi-carrier with order management, from $14.99/mo after a 30-day trial."
  ]
 ]

@@ -103,7 +103,7 @@
   "https://getrecharge.com/",
   "subscriptions",
   "Leading subscription billing platform for Shopify.",
-  "Standard $99/mo + 1.49% + 19\u00a2 per transaction; Plus $499/mo",
+  "Standard $99/mo + 1.49% + 19¢ per transaction; Plus $499/mo",
   "Growing ($10k+/mo)",
   "https://getrecharge.com/pricing/"
  ],
@@ -112,7 +112,7 @@
   "https://skio.com/",
   "subscriptions",
   "Subscription platform focused on easy migration and passwordless customer portal.",
-  "Scale: $599/mo monthly or $499/mo annually, plus 1% + 20\u00a2 per transaction",
+  "Scale: $599/mo monthly or $499/mo annually, plus 1% + 20¢ per transaction",
   "Scaling ($100k+/mo)",
   "https://skio.com/pricing"
  ],
@@ -463,7 +463,7 @@
   "https://stay.ai/",
   "subscriptions",
   "Subscription and retention platform for Shopify brands.",
-  "From $499/mo + 1% + 19\u00a2 per transaction",
+  "From $499/mo + 1% + 19¢ per transaction",
   "Scaling ($100k+/mo)",
   "https://stay.ai/pricing"
  ],
@@ -805,7 +805,7 @@
   "https://www.prediko.io/",
   "inventory",
   "AI inventory planning and forecasting for Shopify.",
-  "Plans by GMV tier (under $100k, $100k\u2013$500k, \u2026): see vendor",
+  "Plans by GMV tier (under $100k, $100k–$500k, …): see vendor",
   "Growing ($10k+/mo)",
   "https://www.prediko.io/pricing"
  ],
@@ -844,5 +844,14 @@
   "See vendor for current pricing",
   "New store",
   null
+ ],
+ [
+  "Pirate Ship",
+  "https://www.pirateship.com/",
+  "shipping",
+  "Free web-based shipping software for discounted USPS and UPS labels, with tracking and batch printing.",
+  "Free: no monthly fees; you pay only for postage",
+  "New store",
+  "https://www.pirateship.com/"
  ]
 ]
