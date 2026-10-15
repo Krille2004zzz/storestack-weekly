@@ -1,7 +1,7 @@
 import fs from 'fs';
 const tools = JSON.parse(fs.readFileSync('tools.json')).map(([name,url,cat,desc,pricing,stage])=>({name,url,cat,desc,pricing,stage,slug:name.toLowerCase().replace(/\(.*?\)/g,'').replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'')}));
 const cats = JSON.parse(fs.readFileSync('categories.json')).map(([slug,name])=>({slug,name}));
-const SITE='StoreStack Weekly', CONTACT='mailto:hello@storestackweekly.com?subject=Founding%20sponsor';
+const SITE='StoreStack Weekly', CONTACT='mailto:krilleramljak36@gmail.com?subject=Founding%20sponsor';
 const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 const catName=s=>cats.find(c=>c.slug===s).name;
 const css=`*{box-sizing:border-box}body{margin:0;font-family:system-ui,-apple-system,Segoe UI,sans-serif;color:#0f172a;background:#f8fafc;line-height:1.55}a{color:inherit}
