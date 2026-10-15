@@ -4,263 +4,845 @@
   "https://www.klaviyo.com/",
   "email-sms",
   "Email and SMS marketing platform with deep Shopify data sync, flows and segmentation.",
-  "Free plan, then paid by contact count",
-  "Growing ($10k+/mo)"
+  "Free plan: up to 250 profiles, 500 emails/mo; paid plans scale with profiles",
+  "Growing ($10k+/mo)",
+  "https://www.klaviyo.com/pricing"
  ],
  [
   "Omnisend",
   "https://www.omnisend.com/",
   "email-sms",
   "Email and SMS marketing with ready-made e-commerce automations; simpler than enterprise tools.",
-  "Free plan, then paid tiers",
-  "New store"
+  "Free plan ($0/mo); paid plans scale with contacts; SMS from $0.007/message",
+  "New store",
+  "https://www.omnisend.com/pricing/"
  ],
  [
   "Postscript",
   "https://postscript.io/",
   "email-sms",
   "SMS marketing built specifically for Shopify brands.",
-  "Paid, usage-based",
-  "Growing ($10k+/mo)"
+  "Starter: $0/mo with $49 monthly minimum spend; SMS from $0.009/message + carrier fees",
+  "Growing ($10k+/mo)",
+  "https://postscript.io/pricing"
  ],
  [
   "Attentive",
   "https://www.attentive.com/",
   "email-sms",
   "Enterprise SMS and email marketing platform for larger brands.",
-  "Custom quote",
-  "Scaling ($100k+/mo)"
+  "Custom pricing; free trial available on request",
+  "Scaling ($100k+/mo)",
+  "https://www.attentive.com/pricing"
  ],
  [
   "Judge.me",
   "https://judge.me/",
   "reviews",
   "Product reviews app with photo/video reviews and review request emails.",
-  "Free plan + low-cost paid plan",
-  "New store"
+  "Free plan; Awesome plan $15/mo",
+  "New store",
+  "https://judge.me/pricing"
  ],
  [
   "Okendo",
   "https://okendo.io/",
   "reviews",
   "Reviews, UGC, loyalty and quizzes in one customer marketing platform.",
-  "Paid tiers",
-  "Growing ($10k+/mo)"
+  "See vendor for current pricing",
+  "Growing ($10k+/mo)",
+  null
  ],
  [
   "Yotpo",
   "https://www.yotpo.com/",
   "reviews",
   "Reviews, loyalty and referrals suite used by mid-size and large brands.",
-  "Free/entry plans, paid tiers",
-  "Scaling ($100k+/mo)"
+  "Reviews: limited free plan (up to 50 orders/mo), paid from $15/mo; bundles from $89/mo",
+  "Scaling ($100k+/mo)",
+  "https://www.yotpo.com/pricing/"
  ],
  [
   "Loox",
   "https://loox.app/",
   "reviews",
   "Photo and video reviews plus referrals, popular with visual brands.",
-  "Paid tiers",
-  "New store"
+  "See vendor for current pricing",
+  "New store",
+  null
  ],
  [
   "ReConvert (Upsell.com)",
   "https://upsell.com/",
   "upsell",
   "Post-purchase and thank-you page upsells. ReConvert now lives at Upsell.com.",
-  "Free plan + paid tiers",
-  "New store"
+  "Paid tiers by order volume; Scale from $299/mo, Elite from $899/mo (lower tiers: see vendor)",
+  "New store",
+  "https://upsell.com/pricing"
  ],
  [
   "Rebuy",
   "https://www.rebuyengine.com/",
   "upsell",
   "AI-powered personalisation: upsells, cross-sells, smart cart.",
-  "Paid, by order volume",
-  "Growing ($10k+/mo)"
+  "Build-your-own plans from $25/mo; full platform from $534/mo (based on orders)",
+  "Growing ($10k+/mo)",
+  "https://www.rebuyengine.com/pricing"
  ],
  [
   "Zipify",
   "https://zipify.com/",
   "upsell",
   "One-click upsells (OCU) and landing page builder from the Zipify team.",
-  "Paid tiers",
-  "Growing ($10k+/mo)"
+  "OCU priced by upsell revenue: from $9.95/mo, capped at $999/mo",
+  "Growing ($10k+/mo)",
+  "https://zipify.com/pricing/"
  ],
  [
   "Recharge",
   "https://getrecharge.com/",
   "subscriptions",
   "Leading subscription billing platform for Shopify.",
-  "Paid tiers + transaction fees",
-  "Growing ($10k+/mo)"
+  "Standard $99/mo + 1.49% + 19\u00a2 per transaction; Plus $499/mo",
+  "Growing ($10k+/mo)",
+  "https://getrecharge.com/pricing/"
  ],
  [
   "Skio",
   "https://skio.com/",
   "subscriptions",
   "Subscription platform focused on easy migration and passwordless customer portal.",
-  "Paid",
-  "Scaling ($100k+/mo)"
+  "Scale: $599/mo monthly or $499/mo annually, plus 1% + 20\u00a2 per transaction",
+  "Scaling ($100k+/mo)",
+  "https://skio.com/pricing"
  ],
  [
   "Smile.io",
   "https://smile.io/",
   "subscriptions",
   "Loyalty points, VIP tiers and referral programs.",
-  "Free plan + paid tiers",
-  "New store"
+  "Paid plans: $15, $79, $199/mo; Plus $999/mo (annual)",
+  "New store",
+  "https://smile.io/pricing"
  ],
  [
   "LoyaltyLion",
   "https://loyaltylion.com/",
   "subscriptions",
   "Data-driven loyalty and engagement platform.",
-  "Paid tiers",
-  "Growing ($10k+/mo)"
+  "Free plan available; Classic $199/mo (500 orders/mo); 14-day trial",
+  "Growing ($10k+/mo)",
+  "https://loyaltylion.com/pricing"
  ],
  [
   "ShipStation",
   "https://www.shipstation.com/",
   "shipping",
   "Multi-carrier shipping labels and order management.",
-  "Paid tiers (trial available)",
-  "New store"
+  "From $14.99/mo (50 shipments); scales by volume; 30-day free trial",
+  "New store",
+  "https://www.shipstation.com/pricing/"
  ],
  [
   "AfterShip",
   "https://www.aftership.com/",
   "shipping",
   "Branded order tracking, notifications and returns.",
-  "Free plan + paid tiers",
-  "New store"
+  "Tracking: Essentials from $29/mo (6,000 shipments/yr)",
+  "New store",
+  "https://www.aftership.com/pricing/tracking"
  ],
  [
   "Loop Returns",
   "https://www.loopreturns.com/",
   "shipping",
   "Returns and exchanges platform that pushes exchanges over refunds.",
-  "Paid",
-  "Scaling ($100k+/mo)"
+  "Essential $155/mo; Advanced $340/mo",
+  "Scaling ($100k+/mo)",
+  "https://www.loopreturns.com/pricing/"
  ],
  [
   "ShipBob",
   "https://www.shipbob.com/",
   "shipping",
   "Outsourced 3PL fulfilment with a global warehouse network.",
-  "Custom quote",
-  "Growing ($10k+/mo)"
+  "See vendor for current pricing",
+  "Growing ($10k+/mo)",
+  null
  ],
  [
   "Triple Whale",
   "https://triplewhale.com/",
   "analytics",
   "Attribution and analytics dashboard for Shopify brands.",
-  "Free tier + paid tiers",
-  "Growing ($10k+/mo)"
+  "Free plan available; paid tiers by revenue (see vendor)",
+  "Growing ($10k+/mo)",
+  "https://triplewhale.com/pricing"
  ],
  [
   "Northbeam",
   "https://www.northbeam.io/",
   "analytics",
   "Multi-touch attribution and media mix modelling.",
-  "Paid",
-  "Scaling ($100k+/mo)"
+  "Paid; Growth plan aimed at brands spending under $200K/mo on ads (pricing on request)",
+  "Scaling ($100k+/mo)",
+  "https://www.northbeam.io/pricing"
  ],
  [
   "Lucky Orange",
   "https://www.luckyorange.com/",
   "analytics",
   "Heatmaps, session recordings and live chat.",
-  "Free plan + paid tiers",
-  "New store"
+  "7-day trial; from $32/mo (annual, 3,500 sessions/mo); $72 and $199 tiers",
+  "New store",
+  "https://www.luckyorange.com/pricing"
  ],
  [
   "Hotjar",
   "https://contentsquare.com/hotjar/",
   "analytics",
   "Heatmaps, recordings and surveys, now part of Contentsquare.",
-  "Free plan + paid tiers",
-  "New store"
+  "See vendor for current pricing",
+  "New store",
+  null
  ],
  [
   "PageFly",
   "https://pagefly.io/",
   "page-builders",
   "Drag-and-drop Shopify page builder.",
-  "Free plan + paid tiers",
-  "New store"
+  "See vendor for current pricing",
+  "New store",
+  null
  ],
  [
   "GemPages",
   "https://gempages.net/",
   "page-builders",
   "Shopify page builder with templates and CRO elements.",
-  "Free plan + paid tiers",
-  "New store"
+  "See vendor for current pricing",
+  "New store",
+  null
  ],
  [
   "Replo",
   "https://www.replo.app/",
   "page-builders",
   "Landing page builder for Shopify aimed at growth teams.",
-  "Paid tiers",
-  "Growing ($10k+/mo)"
+  "See vendor for current pricing",
+  "Growing ($10k+/mo)",
+  null
  ],
  [
   "Shogun",
   "https://getshogun.com/",
   "page-builders",
   "E-commerce optimisation and personalisation platform with page building.",
-  "Paid tiers",
-  "Growing ($10k+/mo)"
+  "Draft Mode $0/mo (no publishing); Build $39/mo ($31/mo annual)",
+  "Growing ($10k+/mo)",
+  "https://getshogun.com/pricing"
  ],
  [
   "Gorgias",
   "https://www.gorgias.com/",
   "support",
   "Helpdesk built for e-commerce, with order data inside tickets.",
-  "Paid, by ticket volume",
-  "Growing ($10k+/mo)"
+  "Starter $40/mo (50 tickets); higher tiers by ticket volume",
+  "Growing ($10k+/mo)",
+  "https://www.gorgias.com/pricing"
  ],
  [
   "Tidio",
   "https://www.tidio.com/",
   "support",
   "Live chat and AI chatbot for small stores.",
-  "Free plan + paid tiers",
-  "New store"
+  "Paid from $24.17/mo (100 conversations); 7-day free trial",
+  "New store",
+  "https://www.tidio.com/pricing/"
  ],
  [
   "Inventory Planner",
   "https://inventory-planner.com/",
   "inventory",
   "Demand forecasting and purchase order planning.",
-  "Paid (trial available)",
-  "Growing ($10k+/mo)"
+  "See vendor for current pricing",
+  "Growing ($10k+/mo)",
+  null
  ],
  [
   "Pebblely",
   "https://pebblely.com/",
   "ai",
   "AI product photography: generate lifestyle backgrounds for product shots.",
-  "Free plan + paid tiers",
-  "New store"
+  "Paid plans: Lite US$9/mo, Basic US$19/mo, Pro US$39/mo",
+  "New store",
+  "https://pebblely.com/pricing/"
  ],
  [
   "Photoroom",
   "https://www.photoroom.com/",
   "ai",
   "AI photo editor for background removal and product listing images.",
-  "Free plan + paid tiers",
-  "New store"
+  "See vendor for current pricing",
+  "New store",
+  null
  ],
  [
   "Jasper",
   "https://www.jasper.ai/",
   "ai",
   "AI marketing content platform for product copy, ads and email.",
-  "Paid tiers (trial available)",
-  "Growing ($10k+/mo)"
+  "See vendor for current pricing",
+  "Growing ($10k+/mo)",
+  null
+ ],
+ [
+  "Mailchimp",
+  "https://mailchimp.com/",
+  "email-sms",
+  "Well-known email marketing platform with templates, automations and a Shopify integration.",
+  "Free plan available; Essentials, Standard and Premium tiers by contacts",
+  "New store",
+  "https://mailchimp.com/pricing/marketing/"
+ ],
+ [
+  "Privy",
+  "https://www.privy.com/",
+  "email-sms",
+  "Popups, email and SMS built for e-commerce list growth.",
+  "From $30/mo (by mailable contacts); SMS add-on",
+  "New store",
+  "https://www.privy.com/pricing"
+ ],
+ [
+  "Drip",
+  "https://www.drip.com/",
+  "email-sms",
+  "E-commerce email marketing with visual workflows.",
+  "See vendor for current pricing",
+  "Growing ($10k+/mo)",
+  null
+ ],
+ [
+  "Sendlane",
+  "https://www.sendlane.com/",
+  "email-sms",
+  "Email, SMS, reviews and forms in one platform for e-commerce.",
+  "From $100/mo; SMS from $0.009/credit",
+  "Growing ($10k+/mo)",
+  "https://www.sendlane.com/pricing"
+ ],
+ [
+  "Brevo",
+  "https://www.brevo.com/",
+  "email-sms",
+  "Email, SMS and CRM platform with a generous free plan.",
+  "Free forever plan; paid tiers: see vendor",
+  "New store",
+  "https://www.brevo.com/pricing/"
+ ],
+ [
+  "Justuno",
+  "https://www.justuno.com/",
+  "email-sms",
+  "Popups and on-site messaging for email/SMS list growth.",
+  "From $59/mo (up to 10K visitors/mo); $299/mo managed tier",
+  "Growing ($10k+/mo)",
+  "https://www.justuno.com/pricing"
+ ],
+ [
+  "Seguno",
+  "https://www.seguno.com/",
+  "email-sms",
+  "Email marketing built inside the Shopify admin.",
+  "Free starter plan; Standard $35/mo; Professional $215/mo",
+  "New store",
+  "https://www.seguno.com/pricing"
+ ],
+ [
+  "Shopify Email",
+  "https://www.shopify.com/email-marketing",
+  "email-sms",
+  "Shopify's own email (and SMS) marketing tool, managed in your admin.",
+  "Free up to 10,000 emails/mo, then pay for what you use",
+  "New store",
+  "https://www.shopify.com/email-marketing"
+ ],
+ [
+  "Stamped",
+  "https://stamped.io/",
+  "reviews",
+  "Reviews and loyalty for e-commerce brands.",
+  "Reviews from $199/mo; multi-product plans from $798/mo",
+  "Growing ($10k+/mo)",
+  "https://website.stamped.io/pricing/"
+ ],
+ [
+  "Reviews.io",
+  "https://www.reviews.io/",
+  "reviews",
+  "Company and product review collection with Google integration.",
+  "See vendor for current pricing",
+  "Growing ($10k+/mo)",
+  null
+ ],
+ [
+  "Trustpilot",
+  "https://business.trustpilot.com/",
+  "reviews",
+  "Public company review platform; strong trust signal for new stores.",
+  "Free basic profile; Starter from $99/mo per domain (annual); Plus from $319/mo",
+  "Growing ($10k+/mo)",
+  "https://business.trustpilot.com/pricing"
+ ],
+ [
+  "Fera",
+  "https://www.fera.ai/",
+  "reviews",
+  "Reviews app for Shopify with photo/video reviews.",
+  "Startup $9/mo (200 orders); Small $29/mo; free trial",
+  "New store",
+  "https://www.fera.ai/pricing"
+ ],
+ [
+  "Junip",
+  "https://junip.co/",
+  "reviews",
+  "Reviews app for Shopify focused on unlimited orders and clean design.",
+  "Free plan ($0); paid tiers with unlimited orders & reviews; 7-day trial",
+  "New store",
+  "https://junip.co/pricing"
+ ],
+ [
+  "AfterSell",
+  "https://www.aftersell.com/",
+  "upsell",
+  "Post-purchase and checkout upsells for Shopify.",
+  "From $59.99/mo (200 orders), capped at $599.99/mo; 30-day free trial",
+  "Growing ($10k+/mo)",
+  "https://www.aftersell.com/pricing"
+ ],
+ [
+  "Bold Upsell",
+  "https://boldcommerce.com/",
+  "upsell",
+  "Upsell and cross-sell app from Bold Commerce.",
+  "See vendor for current pricing",
+  "Growing ($10k+/mo)",
+  null
+ ],
+ [
+  "Appstle",
+  "https://appstle.com/",
+  "subscriptions",
+  "Subscriptions, bundles and loyalty apps for Shopify.",
+  "See vendor for current pricing",
+  "New store",
+  null
+ ],
+ [
+  "Loop Subscriptions",
+  "https://www.loopwork.co/",
+  "subscriptions",
+  "Subscription app for Shopify with flat monthly pricing.",
+  "From $99/mo, $0 per-order fees",
+  "Growing ($10k+/mo)",
+  "https://www.loopwork.co/pricing"
+ ],
+ [
+  "Seal Subscriptions",
+  "https://www.sealsubscriptions.com/",
+  "subscriptions",
+  "Affordable Shopify subscription app with a free plan.",
+  "Free plan (50 subscriptions, 0% fee); premium plans with 30-day trial",
+  "New store",
+  "https://www.sealsubscriptions.com/pricing"
+ ],
+ [
+  "Stay AI",
+  "https://stay.ai/",
+  "subscriptions",
+  "Subscription and retention platform for Shopify brands.",
+  "From $499/mo + 1% + 19\u00a2 per transaction",
+  "Scaling ($100k+/mo)",
+  "https://stay.ai/pricing"
+ ],
+ [
+  "Rivo",
+  "https://www.rivo.io/",
+  "subscriptions",
+  "Loyalty, referrals and retention built for Shopify.",
+  "Scale plan from $49/mo; higher tiers from $199 and $499/mo",
+  "Growing ($10k+/mo)",
+  "https://www.rivo.io/pricing"
+ ],
+ [
+  "BON Loyalty",
+  "https://bonloyalty.com/",
+  "subscriptions",
+  "Points, rewards and referral app for Shopify.",
+  "See vendor for current pricing",
+  "New store",
+  null
+ ],
+ [
+  "Growave",
+  "https://www.growave.io/",
+  "subscriptions",
+  "Loyalty, reviews, wishlist and referrals in one app.",
+  "From $15/mo (500 orders/mo); 14-day free trial",
+  "New store",
+  "https://www.growave.io/pricing"
+ ],
+ [
+  "Shippo",
+  "https://goshippo.com/",
+  "shipping",
+  "Multi-carrier shipping labels with discounted rates.",
+  "Starter free (up to 30 labels/mo); Pro from $17/mo",
+  "New store",
+  "https://goshippo.com/pricing"
+ ],
+ [
+  "Easyship",
+  "https://www.easyship.com/",
+  "shipping",
+  "Multi-carrier shipping software with strong international focus.",
+  "Free forever plan; Premier & Enterprise: see vendor",
+  "New store",
+  "https://www.easyship.com/plans"
+ ],
+ [
+  "Route",
+  "https://route.com/",
+  "shipping",
+  "Shipping protection, tracking and returns post-purchase platform.",
+  "$0/month for merchants (customers pay for protection)",
+  "Growing ($10k+/mo)",
+  "https://www.route.com/pricing"
+ ],
+ [
+  "ParcelPanel (CWILL)",
+  "https://www.parcelpanel.com/",
+  "shipping",
+  "Order tracking and post-purchase app (now branded CWILL).",
+  "Free (20 credits/mo); Essential from $11/mo (200 credits)",
+  "New store",
+  "https://www.parcelpanel.com/pricing/"
+ ],
+ [
+  "ReturnGO",
+  "https://returngo.ai/",
+  "shipping",
+  "Returns and exchanges management for e-commerce.",
+  "From $147/mo; $297/mo tier; 14-day trial on Shopify",
+  "Growing ($10k+/mo)",
+  "https://returngo.ai/pricing/"
+ ],
+ [
+  "Redo",
+  "https://redo.com/",
+  "shipping",
+  "Returns, checkout and post-purchase platform priced per order.",
+  "Usage-based per order (e.g. checkout optimization $0.40/order): see vendor",
+  "Growing ($10k+/mo)",
+  "https://redo.com/pricing"
+ ],
+ [
+  "Google Analytics",
+  "https://marketingplatform.google.com/about/analytics/",
+  "analytics",
+  "Free web analytics (GA4) from Google.",
+  "Free",
+  "New store",
+  "https://marketingplatform.google.com/about/analytics/"
+ ],
+ [
+  "Microsoft Clarity",
+  "https://clarity.microsoft.com/",
+  "analytics",
+  "Free heatmaps and session recordings from Microsoft.",
+  "Free forever",
+  "New store",
+  "https://clarity.microsoft.com/"
+ ],
+ [
+  "Polar Analytics",
+  "https://www.polaranalytics.com/",
+  "analytics",
+  "Centralised Shopify analytics and BI.",
+  "See vendor for current pricing",
+  "Scaling ($100k+/mo)",
+  null
+ ],
+ [
+  "Lifetimely",
+  "https://useamp.com/products/analytics/",
+  "analytics",
+  "Profit and lifetime-value analytics (by AMP).",
+  "See vendor for current pricing",
+  "Growing ($10k+/mo)",
+  null
+ ],
+ [
+  "Peel Insights",
+  "https://www.peelinsights.com/",
+  "analytics",
+  "Automated retention and cohort analytics for Shopify.",
+  "Priced by monthly orders: see vendor",
+  "Growing ($10k+/mo)",
+  "https://www.peelinsights.com/pricing"
+ ],
+ [
+  "BeProfit",
+  "https://beprofit.ai/",
+  "analytics",
+  "Profit tracking and analysis for e-commerce.",
+  "See vendor for current pricing",
+  "New store",
+  null
+ ],
+ [
+  "Instant",
+  "https://instant.so/",
+  "page-builders",
+  "Visual store and page builder for Shopify.",
+  "Starter $31/mo; Pro $79/mo (monthly); trial available",
+  "Growing ($10k+/mo)",
+  "https://instant.so/pricing"
+ ],
+ [
+  "EComposer",
+  "https://ecomposer.io/",
+  "page-builders",
+  "Shopify landing page builder with templates.",
+  "See vendor for current pricing",
+  "New store",
+  null
+ ],
+ [
+  "Intelligems",
+  "https://www.intelligems.io/",
+  "page-builders",
+  "A/B test prices, offers and content on Shopify.",
+  "Bundle $1,279/mo annual ($2,894/mo monthly); 3-month minimum",
+  "Scaling ($100k+/mo)",
+  "https://www.intelligems.io/pricing"
+ ],
+ [
+  "OptinMonster",
+  "https://optinmonster.com/",
+  "page-builders",
+  "Popups and lead-capture forms.",
+  "Basic from $9/mo (billed annually, first-year discount)",
+  "New store",
+  "https://optinmonster.com/pricing/"
+ ],
+ [
+  "Hello Bar",
+  "https://www.hellobar.com/",
+  "page-builders",
+  "Popups and top bars with A/B testing.",
+  "Free plan; paid from $39/mo (annual, 50k popup views)",
+  "New store",
+  "https://www.hellobar.com/pricing/"
+ ],
+ [
+  "Zendesk",
+  "https://www.zendesk.com/",
+  "support",
+  "Customer service platform with AI agents.",
+  "From $19/agent/mo (annual); $55 and $115 tiers",
+  "Growing ($10k+/mo)",
+  "https://www.zendesk.com/pricing/"
+ ],
+ [
+  "Re:amaze",
+  "https://www.reamaze.com/",
+  "support",
+  "Helpdesk and live chat built for e-commerce.",
+  "Basic $29/member/mo; Pro $49/member/mo (10% off annual)",
+  "Growing ($10k+/mo)",
+  "https://www.reamaze.com/pricing"
+ ],
+ [
+  "Richpanel",
+  "https://www.richpanel.com/",
+  "support",
+  "AI customer service platform for e-commerce.",
+  "Free up to 50 orders/mo; Starter $50/mo",
+  "Growing ($10k+/mo)",
+  "https://www.richpanel.com/pricing"
+ ],
+ [
+  "Gladly",
+  "https://www.gladly.ai/",
+  "support",
+  "Customer service platform for top consumer brands.",
+  "See vendor for current pricing",
+  "Scaling ($100k+/mo)",
+  null
+ ],
+ [
+  "eDesk",
+  "https://www.edesk.com/",
+  "support",
+  "E-commerce customer support helpdesk with AI.",
+  "From $49/agent/mo ($39 annual); AI agent $0.99 per outcome",
+  "Growing ($10k+/mo)",
+  "https://www.edesk.com/pricing/"
+ ],
+ [
+  "Shopify Inbox",
+  "https://apps.shopify.com/inbox",
+  "support",
+  "Shopify's free chat app for talking to shoppers.",
+  "Free",
+  "New store",
+  "https://apps.shopify.com/inbox"
+ ],
+ [
+  "Intercom",
+  "https://www.intercom.com/",
+  "support",
+  "Helpdesk with the Fin AI agent.",
+  "Helpdesk from $29/seat/mo; Fin AI Agent $0.99 per outcome; 14-day trial",
+  "Growing ($10k+/mo)",
+  "https://www.intercom.com/pricing"
+ ],
+ [
+  "ChatGPT",
+  "https://chatgpt.com/",
+  "ai",
+  "General AI assistant, handy for product copy, emails and ideas.",
+  "See vendor for current pricing",
+  "New store",
+  null
+ ],
+ [
+  "Claid.ai",
+  "https://claid.ai/",
+  "ai",
+  "AI product photo editing and enhancement.",
+  "Free trial (50 credits); paid plans: see vendor",
+  "New store",
+  "https://claid.ai/pricing"
+ ],
+ [
+  "Copy.ai",
+  "https://www.copy.ai/",
+  "ai",
+  "AI marketing copy and go-to-market workflows.",
+  "From $29/mo ($24/mo annual); higher tiers up to $1,000/mo",
+  "Growing ($10k+/mo)",
+  "https://www.copy.ai/prices"
+ ],
+ [
+  "Canva",
+  "https://www.canva.com/",
+  "ai",
+  "Design tool for social posts, ads and banners, with AI features.",
+  "See vendor for current pricing",
+  "New store",
+  null
+ ],
+ [
+  "Shopify Sidekick",
+  "https://www.shopify.com/magic",
+  "ai",
+  "Shopify's built-in AI commerce assistant.",
+  "Included with Shopify at no extra cost",
+  "New store",
+  "https://www.shopify.com/sidekick"
+ ],
+ [
+  "Octane AI",
+  "https://www.octaneai.com/",
+  "ai",
+  "AI product quizzes and zero-party data for Shopify.",
+  "Basic $50/mo ($43/mo annual); 14-day free trial",
+  "Growing ($10k+/mo)",
+  "https://www.octaneai.com/pricing"
+ ],
+ [
+  "Hypotenuse AI",
+  "https://www.hypotenuse.ai/",
+  "ai",
+  "AI product content and PXM platform for e-commerce.",
+  "See vendor for current pricing",
+  "Growing ($10k+/mo)",
+  null
+ ],
+ [
+  "Stocky",
+  "https://apps.shopify.com/stocky",
+  "inventory",
+  "Inventory and purchase orders for Shopify POS Pro.",
+  "Free to install (additional charges may apply)",
+  "New store",
+  "https://apps.shopify.com/stocky"
+ ],
+ [
+  "Cin7",
+  "https://www.cin7.com/",
+  "inventory",
+  "Inventory management and small-business ERP.",
+  "From $349/mo; $599 and $1,199/mo tiers",
+  "Scaling ($100k+/mo)",
+  "https://www.cin7.com/pricing/"
+ ],
+ [
+  "Katana",
+  "https://katanamrp.com/",
+  "inventory",
+  "Cloud inventory and manufacturing management.",
+  "Free plan up to 30 SKUs; paid tiers: see vendor",
+  "Growing ($10k+/mo)",
+  "https://katanamrp.com/pricing/"
+ ],
+ [
+  "Prediko",
+  "https://www.prediko.io/",
+  "inventory",
+  "AI inventory planning and forecasting for Shopify.",
+  "Plans by GMV tier (under $100k, $100k\u2013$500k, \u2026): see vendor",
+  "Growing ($10k+/mo)",
+  "https://www.prediko.io/pricing"
+ ],
+ [
+  "Linnworks",
+  "https://www.linnworks.com/",
+  "inventory",
+  "Multichannel inventory and order management.",
+  "See vendor for current pricing",
+  "Scaling ($100k+/mo)",
+  null
+ ],
+ [
+  "Zoho Inventory",
+  "https://www.zoho.com/inventory/",
+  "inventory",
+  "Affordable online inventory management.",
+  "Standard $29/org/mo (annual, 500 orders/mo); Premium $79/mo; free trial",
+  "New store",
+  "https://www.zoho.com/us/inventory/pricing/"
+ ],
+ [
+  "SparkLayer",
+  "https://www.sparklayer.io/",
+  "inventory",
+  "B2B and wholesale for Shopify.",
+  "See vendor for current pricing",
+  "Scaling ($100k+/mo)",
+  null
+ ],
+ [
+  "Faire",
+  "https://www.faire.com/",
+  "inventory",
+  "Wholesale marketplace to sell to independent retailers.",
+  "See vendor for current pricing",
+  "New store",
+  null
  ]
 ]
