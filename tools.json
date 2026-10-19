@@ -49,9 +49,9 @@
   "https://okendo.io/",
   "reviews",
   "Reviews, UGC, loyalty and quizzes in one customer marketing platform.",
-  "See vendor for current pricing",
+  "Free plan (up to 50 orders/mo); Essential $19/mo; Growth $119/mo; Power $299/mo; 14-day trial",
   "Growing ($10k+/mo)",
-  null
+  "https://apps.shopify.com/okendo-reviews"
  ],
  [
   "Yotpo",
@@ -67,9 +67,9 @@
   "https://loox.app/",
   "reviews",
   "Photo and video reviews plus referrals, popular with visual brands.",
-  "See vendor for current pricing",
+  "Free plan (up to 500 orders); Convert $49.99/mo (300 orders, +$50 per extra 300); Unlimited $299.99/mo; 14-day trial",
   "New store",
-  null
+  "https://apps.shopify.com/loox"
  ],
  [
   "ReConvert (Upsell.com)",
@@ -211,18 +211,18 @@
   "https://pagefly.io/",
   "page-builders",
   "Drag-and-drop Shopify page builder.",
-  "See vendor for current pricing",
+  "Free plan (1 published page/section); Builder $24/mo; Accelerate $99/mo; Enterprise $299/mo",
   "New store",
-  null
+  "https://apps.shopify.com/pagefly"
  ],
  [
   "GemPages",
   "https://gempages.net/",
   "page-builders",
   "Shopify page builder with templates and CRO elements.",
-  "See vendor for current pricing",
+  "Free plan (1 published page); Build $29/mo; Optimize $59/mo; Enterprise $199/mo",
   "New store",
-  null
+  "https://apps.shopify.com/gempages"
  ],
  [
   "Replo",
@@ -571,18 +571,18 @@
   "https://www.polaranalytics.com/",
   "analytics",
   "Centralised Shopify analytics and BI.",
-  "See vendor for current pricing",
+  "Core plan from $750/mo, priced by online GMV; annual discounts available",
   "Scaling ($100k+/mo)",
-  null
+  "https://apps.shopify.com/polar-analytics"
  ],
  [
   "Lifetimely",
   "https://useamp.com/products/analytics/",
   "analytics",
   "Profit and lifetime-value analytics (by AMP).",
-  "See vendor for current pricing",
+  "Free plan; S $49/mo (500 orders); M $149/mo (3,000 orders); L $299/mo (7,000 orders); 14-day trial",
   "Growing ($10k+/mo)",
-  null
+  "https://apps.shopify.com/lifetimely-lifetime-value-and-profit-analytics"
  ],
  [
   "Peel Insights",
@@ -598,9 +598,9 @@
   "https://beprofit.ai/",
   "analytics",
   "Profit tracking and analysis for e-commerce.",
-  "See vendor for current pricing",
+  "Basic $49/mo (450 orders); Pro $99/mo; Ultimate $149/mo; Plus $249/mo; 14-day trial",
   "New store",
-  null
+  "https://apps.shopify.com/beprofit-profit-tracker"
  ],
  [
   "Instant",
@@ -616,9 +616,9 @@
   "https://ecomposer.io/",
   "page-builders",
   "Shopify landing page builder with templates.",
-  "See vendor for current pricing",
+  "Free plan (1 live page/section); Standard $25/mo; Pro $49/mo; Premium $129/mo; 7-day trial",
   "New store",
-  null
+  "https://apps.shopify.com/ecomposer"
  ],
  [
   "Intelligems",
@@ -853,5 +853,32 @@
   "Free: no monthly fees; you pay only for postage",
   "New store",
   "https://www.pirateship.com/"
+ ],
+ [
+  "Shopify Flow",
+  "https://apps.shopify.com/flow",
+  "inventory",
+  "Shopify's own automation app: build workflows that tag orders, flag risky ones, alert you on low stock and connect other apps.",
+  "Free",
+  "New store",
+  "https://apps.shopify.com/flow"
+ ],
+ [
+  "Shopify Forms",
+  "https://apps.shopify.com/shopify-forms",
+  "email-sms",
+  "Shopify's free inline and pop-up signup forms that add subscribers straight to your Shopify customer list.",
+  "Free",
+  "New store",
+  "https://apps.shopify.com/shopify-forms"
+ ],
+ [
+  "Shopify Bundles",
+  "https://apps.shopify.com/shopify-bundles",
+  "upsell",
+  "Shopify's free app for fixed bundles and multipacks; basic, but a no-cost way to test bundles before paying for an upsell app.",
+  "Free",
+  "New store",
+  "https://apps.shopify.com/shopify-bundles"
  ]
 ]
